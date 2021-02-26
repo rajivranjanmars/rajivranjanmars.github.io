@@ -1,1 +1,274 @@
 # rajivranjanmars.github.io
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://itsvishal.codes/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- Required meta tags -->
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" href="https://blaze.codes/img/favicon.png" type="image/png">
+	<title>Rajiv Ranjan</title>
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="./blaze/bootstrap.css">
+	<link rel="stylesheet" href="./blaze/style.css">
+	<link rel="stylesheet" href="./blaze/font-awesome.min.css">
+	<link rel="stylesheet" href="./blaze/owl.carousel.min.css">
+	<link rel="stylesheet" href="./blaze/magnific-popup.css">
+	<link rel="stylesheet" href="./blaze/nice-select.css">
+	<!-- main css -->
+	<link rel="stylesheet" href="./blaze/style(1).css">
+	<style type="text/css">
+		#loader { 
+            border: 12px solid #f3f3f3; 
+            border-radius: 50%; 
+            border-top: 12px solid #444444; 
+            width: 70px; 
+            height: 70px; 
+            animation: spin 1s linear infinite; 
+        } 
+          
+        @keyframes spin { 
+            100% { 
+                transform: rotate(360deg); 
+            } 
+        } 
+          
+        .center { 
+            position: absolute; 
+            top: 0; 
+            bottom: 0; 
+            left: 0; 
+            right: 0; 
+            margin: auto; 
+        } 
+	</style>
+<script type="text/javascript" charset="UTF-8" src="./blaze/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./blaze/util.js.download"></script></head>
+
+<body>
+
+	<div id="loader" class="center" style="visibility: visible; display: none;"></div>
+
+	<div id="realbody" style="visibility: visible;">
+	<!--================ Start Header Area =================-->
+		<header class="header_area">
+			<div class="main_menu">
+				<nav class="navbar navbar-expand-lg navbar-light">
+					<div class="container">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<a class="navbar-brand logo_h" href="https://blaze.codes/index.html"><img src="./blaze/logo.png" alt=""></a>
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+							<ul class="nav navbar-nav menu_nav justify-content-end">
+								<li class="nav-item active"><a class="nav-link" href="https://blaze.codes/index.html">Home</a></li>
+								<li class="nav-item"><a class="nav-link" href="https://blaze.codes/portfolio.html">Portfolio</a></li>
+								<li class="nav-item"><a class="nav-link" href="https://blaze.codes/contact.html">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</header>
+		<!--================ End Header Area =================-->
+
+		<!--================ Start Home Banner Area =================-->
+		<section class="home_banner_area">
+			<div class="banner_inner">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-7">
+							<div class="banner_content">
+								<h3 class="text-uppercase">Hell0</h3>
+								<h1 class="text-uppercase">I am </br> </br> Rajiv </br> Ranjan</h1>
+								<h5 class="text-uppercase">Budding Programmer</h5>
+								<div class="d-flex align-items-center">
+									<a class="primary_btn" href="https://cdn.filesend.jp/private/0ToNoF5EqeLp4DVLVoCgFG0R6PeFHonJDv5VioLXpTsyisHUWMJ-dYVwXa2s98P-/Vishal%27s%20Resume.pdf" target="_blank"><span>Download Resume</span></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-5">
+							<div class="home_right_img">
+								<img class="" src="./blaze/home-right.png" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--================ End Home Banner Area =================-->
+
+		<!--================ Start About Us Area =================-->
+		<section class="about_area section_gap">
+			<div class="container">
+				<div class="row justify-content-start align-items-center">
+					<div class="col-lg-5">
+						<div class="about_img">
+							<img class="" src="./blaze/about-us.png" alt="">
+						</div>
+					</div>
+
+					<div class="offset-lg-1 col-lg-5">
+						<div class="main_title text-left">
+							<h2>let me <br>
+								Introduce  <br>
+								myself</h2>
+							<p>
+								I am an Intermediate Programmer who started coding 1 years ago when I was a fresher. I 
+								can't say if I have learnt everything, but I gained alot of exposure overtime, which 
+								only time and no practise could have provided.
+							</p>
+							<p>
+								Currently, I am in Ist year of Computer Science Engineering looking forward to learn as 
+								much as I can. Coding is something I love alot from the very beginning when I started 
+								it. Nothing can be better than commanding a machine to do something for you. This very 
+								thing made me fall in love with it. ;) 
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--================ End About Us Area =================-->
+
+		<!--================ Srart Brand Area =================-->
+		
+		<!--================ End Brand Area =================-->
+
+		<!--================ Start Features Area =================-->
+		<section class="features_area">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8 text-center">
+						<div class="main_title">
+							<h2>my skills </h2>
+							<p>
+								The interaction of knowledge and skill <br> with experience is the key to learning.
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row feature_inner">
+					<div class="col-lg-3 col-md-6">
+						<div class="feature_item">
+							<img src="./blaze/s1.png" alt="">
+							<h4>Web Development</h4>
+							<p>Learnt it online and few courses from udemy and coursera. Practised on few sites too.</p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="feature_item">
+							<img src="./blaze/s2.png" alt="">
+							<h4>UI/ux design</h4>
+							<p>Not that brilliant in it but still learning.<br><br><br></p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="feature_item">
+							<img src="./blaze/s3.png" alt="">
+							<h4>Android Development</h4>
+							<p>Not a pro here, but can call myself intermediate<br><br></p>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="feature_item">
+							<img src="./blaze/s4.png" alt="">
+							<h4>Gaming</h4>
+							<p>Would not call it a professional skill of mine but one I love alot.<br><br></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--================ End Features Area =================-->
+
+		<!--================Start Portfolio Area =================-->
+		
+		<!--================End Portfolio Area =================-->
+
+		<!--================ Start Testimonial Area =================-->
+		
+		<!--================ End Testimonial Area =================-->
+
+		<!--================ Start Newsletter Area =================-->
+		
+		<!--================ End Newsletter Area =================-->
+
+		<!--================Footer Area =================-->
+		<footer class="footer_area">
+			<div class="container">
+	            <div class="row justify-content-center">
+	                <div class="col-lg-12">
+	                    <div class="footer_top flex-column">
+	                        <div class="footer_logo">
+	                            <a href="https://blaze.codes/index.html#">
+	                                <img src="./blaze/logo.png" alt="">
+	                            </a>
+	                            <h4>Follow Me</h4>
+	                        </div>
+	                        <div class="footer_social">
+	                            <a href="https://www.facebook.com/rajivranjanmars/">
+	                                <img src="./blaze/fb.png" alt="">
+	                            </a>
+	                            <a href="https://www.instagram.com/rajivranjanmars/">
+	                                <img src="./blaze/insta.jpg" alt="">
+	                            </a>
+	                            <a href="https://www.linkedin.com/in/rajivranjanmars/">
+	                                <img src="./blaze/linkedin.png" alt="">
+	                            </a>
+								<a href="https://www.github.com/rajivranjanmars">
+	                                <img src="./blaze/github.jpg" alt="">
+	                            </a>
+	                        </div>
+	                    </div>
+	                </div>
+	            </div>
+	            <div class="row footer_bottom justify-content-center">
+	                <p class="col-lg-8 col-sm-12 footer-text">
+	 				 Rajiv Ranjan </p>
+	            </div>
+	        </div>
+		</footer>
+		<!--================End Footer Area =================-->
+
+		<!-- Optional JavaScript -->
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="./blaze/jquery-3.2.1.min.js.download"></script>
+		<script src="./blaze/popper.js.download"></script>
+		<script src="./blaze/bootstrap.min.js.download"></script>
+		<script src="./blaze/stellar.js.download"></script>
+		<script src="./blaze/jquery.magnific-popup.min.js.download"></script>
+		<script src="./blaze/jquery.nice-select.min.js.download"></script>
+		<script src="./blaze/imagesloaded.pkgd.min.js.download"></script>
+		<script src="./blaze/isotope-min.js.download"></script>
+		<script src="./blaze/owl.carousel.min.js.download"></script>
+		<script src="./blaze/jquery.ajaxchimp.min.js.download"></script>
+		<script src="./blaze/mail-script.js.download"></script>
+		<!--gmaps Js-->
+		<script src="./blaze/js"></script>
+		<script src="./blaze/gmaps.min.js.download"></script>
+		<script src="./blaze/theme.js.download"></script>
+	</div>
+	
+
+
+<script type="text/javascript">
+		document.onreadystatechange = function() { 
+            if (document.readyState !== "complete") { 
+                document.querySelector( 
+                  "#realbody").style.visibility = "none"; 
+                document.querySelector( 
+                  "#loader").style.visibility = "visible"; 
+            } else { 
+                document.querySelector( 
+                  "#loader").style.display = "none"; 
+                document.querySelector( 
+                  "#realbody").style.visibility = "visible"; 
+            } 
+        }; 
+	</script>
+
+
+</body></html>
