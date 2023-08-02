@@ -22,11 +22,12 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
+  technocean,
+  readme,
+  animap,
   threejs,
 } from "../assets";
+
 
 export const navLinks = [
   {
@@ -67,30 +68,12 @@ const services = [
 ];
 
 const technologies = [
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  
   {
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
+ 
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -102,18 +85,6 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "docker",
@@ -221,42 +192,43 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "In my career, I've rarely come across a developer as dedicated to excellence as Rajiv. His problem-solving skills and attention to detail are unparalleled.",
+    name: "Emily Carter",
+    designation: "CEO",
+    company: "TechVista",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "Rajiv's ability to turn complex ideas into elegant web solutions is truly commendable. His work as a developer has been a game-changer for our projects.",
+    name: "Michael Adams",
+    designation: "VP of Engineering",
+    company: "InnoTech",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "We owe a significant boost in user engagement to Rajiv's web optimization expertise. His work has transformed our platform and user experience.",
+    name: "Sophia Ramirez",
+    designation: "Director of Marketing",
+    company: "GlobeConnect",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
+
 const projects = [
   {
-    name: "Car Rent",
+    name: "TechNocean",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "An innovative web-based platform for hosting events, hackathons, and fostering a community centered around learning, building, and presenting, in collaboration with prominent tech companies.",
     tags: [
       {
-        name: "react",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
@@ -264,50 +236,50 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: technocean,
+    source_code_link: "https://github.com/gdsclpu/technocean-frontend",
   },
   {
-    name: "Job IT",
+    name: "Readme",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Create a dynamic README.md with ease using this generator: Simply provide your social links, learning goals, collaboration interests, and more to generate a personalized markdown file for your GitHub profile.",
     tags: [
       {
-        name: "react",
+        name: "javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Bootstrap",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Jquery",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: readme,
+    source_code_link: "https://github.com/rajivranjanmars/readme",
   },
   {
-    name: "Trip Guide",
+    name: "Anime-Map",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Experience more than just anime music with AniMap Radio - enjoy a polaroid gallery, iconic tracks, and anime evolution",
     tags: [
       {
-        name: "nextjs",
+        name: "Javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "golang",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Bootstrap",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: animap,
+    source_code_link: "https://github.com/rajivranjanmars/Anime-Map/",
   },
 ];
 
