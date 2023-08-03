@@ -6,26 +6,18 @@ import {
   lovely,
   techno,
   publiccs,
-  javascript,
-  typescript,
-  html,
-  css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
-  git,
-  figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  cip,
+  gdsc,
+  saintcoders,
+  tanza,
   technocean,
   readme,
   animap,
-  threejs,
 } from "../assets";
 
 
@@ -46,6 +38,7 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
+ 
 ];
 
 const services = [
@@ -138,7 +131,7 @@ const experiences = [
   {
     title: "Sowtware Developer Engineer I -Intern",
     company_name: "SaintCoders",
-    icon: starbucks,
+    icon: saintcoders,
     iconBg: "#383E56",
     date: "May 2023 - PRESNT",
     points: [
@@ -151,7 +144,7 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company_name: "Tanza Talks",
-    icon: tesla,
+    icon: tanza,
     iconBg: "#E6DEDD",
     date: "May 2022 - April 2023",
     points: [
@@ -164,7 +157,7 @@ const experiences = [
   {
     title: "Technical Content Writer",
     company_name: "Coding Interview Pro ",
-    icon: shopify,
+    icon: cip,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -177,7 +170,7 @@ const experiences = [
   {
     title: "Management Lead",
     company_name: "Google Developers Student Club - LPU",
-    icon: meta,
+    icon: gdsc,
     iconBg: "#E6DEDD",
     date: "OCT 2020 - Present",
     points: [
