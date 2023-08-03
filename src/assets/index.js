@@ -26,7 +26,7 @@ import gdsc from "./company/gdsc.png";
 import saintcoders from "./company/saintcoders.png";
 import tanza from "./company/tanza.png";
 import technocean from "./technocean.png";
-import animap from "./animap.png";
+import animap from "./Animap.png";
 import readme from "./readme.png";
 
 export {
