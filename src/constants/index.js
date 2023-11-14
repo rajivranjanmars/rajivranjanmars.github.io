@@ -129,7 +129,7 @@ const education = [
 
 const experiences = [
   {
-    title: "Sowtware Developer Engineer I -Intern",
+    title: "Software Developer Engineer I -Intern",
     company_name: "SaintCoders",
     icon: saintcoders,
     iconBg: "#383E56",
